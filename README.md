@@ -49,7 +49,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C.
+* JCVD
 
 ## License
 
